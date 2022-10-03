@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+body {display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.textfield {
+    text-align: center;
+}
+
+input {
+    width: 20%;
+}
+
+.buttonCon {
+    text-align: center;
+    margin-top: 1%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
